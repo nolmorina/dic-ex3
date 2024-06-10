@@ -1,0 +1,8 @@
+Flask
+pybase64
+jsonpickle
+Pillow
+numpy
+fastapi
+tensorflow
+tensorflow_hub
